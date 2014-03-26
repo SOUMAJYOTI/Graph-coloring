@@ -1,5 +1,7 @@
 This software is only for various Linux distributions, tested and developed in UBUNTU 12.04
 
+The problem statement of the software is given here: http://instruo.in/dw-sith.html
+
 Dependencies: 	g++ 4.6.3 or above
 		javac 1.6.0_13 or above
 		java runtime (openjdk-7-jdk)
@@ -10,8 +12,10 @@ provide execute permission to it:
 Run this:
 	./Setup.linux
 
-Upon successful execution it will ask to change permission of run.linux
-change permission accordingly and execute run.linux, the main frame should come up.
+Upon successful execution it will ask for changing permission of run.linux.
+Changing permission accordingly and then execute run.linux. The main frame should come up.
+
+A brief writeup on the approach used is available at https://docs.google.com/file/d/0B_i42sRcBimDUjM5Y2lKTDBKaWs/
 
 Developed for Dev-wars in Instruo 2014 at IIESTS
 Developers: Soumajyoti Sarkar 
