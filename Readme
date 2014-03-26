@@ -1,21 +1,20 @@
-This software is for various Linux distributions only, tested and developed in UBUNTU 12.04
+This software is only for various Linux distributions, tested and developed in UBUNTU 12.04
 
-dependencies: 	g++ 4.6.3 or above
-			javac 1.6.0_13 or above
-			java runtime (openjdk-7-jdk)
+Dependencies: 	g++ 4.6.3 or above
+		javac 1.6.0_13 or above
+		java runtime (openjdk-7-jdk)
 
-the file Setup.linux is a shell script.
+The file Setup.linux is a shell script.
 provide execute permission to it:
 	chmod a+x Setup.linux
-run this:
+Run this:
 	./Setup.linux
 
-upon successful execution it will ask to change permission of run.linux
+Upon successful execution it will ask to change permission of run.linux
 change permission accordingly and execute run.linux, the main frame should come up.
 
-Developped for Dev-wars in Instruo 2014 at IIESTS
-Team Name: SecuredShell
-Team number: 007
-Members: Soumajyoti Sarkar, Anurag Chatterjee, Sibashis Chatterjee
-contact: 9800169899
-e-mail: sibashisch@rediffmail.com 
+Developed for Dev-wars in Instruo 2014 at IIESTS
+Developers: Soumajyoti Sarkar 
+	    Anurag Chatterjee
+	    Sibashis Chatterjee
+
