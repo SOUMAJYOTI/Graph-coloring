@@ -1,0 +1,8 @@
+cd src/objects
+g++ Parsefile.cpp -o Parsefile
+g++ graph_color.cpp -o Graphcolor
+cd ..
+javac Graph.java Plot_graph.java Imperial_forces.java
+echo "now give execute permission to ./run.linux and execute it"
+echo "use: chmod a+x run.linux"
+
