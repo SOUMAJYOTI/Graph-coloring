@@ -2,7 +2,10 @@ This software is only for various Linux distributions, tested and developed in U
 
 The problem statement of the software is given here: http://instruo.in/dw-sith.html
 
-Dependencies: 	g++ 4.6.3 or above
+Dependencies
+
+===================
+g++ 4.6.3 or above
 		javac 1.6.0_13 or above
 		java runtime (openjdk-7-jdk)
 
